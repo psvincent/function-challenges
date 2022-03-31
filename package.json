@@ -1,0 +1,22 @@
+{
+  "name": "function-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psvincent/function-challenges.git"
+  },
+  "author": "Philip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psvincent/function-challenges/issues"
+  },
+  "homepage": "https://github.com/psvincent/function-challenges#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
